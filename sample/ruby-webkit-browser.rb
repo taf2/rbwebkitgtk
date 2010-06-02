@@ -1,3 +1,5 @@
+require 'gnome2'
+Gdk::Threads.init
 
 require 'src/lib/webkit'
 
